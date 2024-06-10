@@ -253,13 +253,7 @@
             },
             "target": {
               "cell": "bc3a66ff-5552-4981-aae7-12ccb0d96de3"
-            },
-            "vertices": [
-              {
-                "x": 960,
-                "y": 262.5
-              }
-            ]
+            }
           },
           {
             "position": {
